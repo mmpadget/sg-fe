@@ -18,6 +18,7 @@ let plugins = [
   }),
 ];
 
+// May need to comment out.
 if(production) {
   plugins = plugins.concat([
     new webpack.optimize.UglifyJsPlugin({
