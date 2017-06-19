@@ -15,6 +15,12 @@ $font-size: 1em;
 $font-fam-1: sans-serif;
 $font-fam-2: monospace;
 
+$navbar-default-bg: #312312;
+$light-orange: #ff8c00;
+$navbar-default-color: $light-orange;
+
+@import "bootstrap";
+
 // global styles
 
 html, body {
