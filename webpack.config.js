@@ -18,7 +18,7 @@ let plugins = [
   }),
 ];
 
-// May need to comment out.
+// NOTE: commenting this out lets the app work.
 // if(production) {
 //   plugins = plugins.concat([
 //     new webpack.optimize.UglifyJsPlugin({

@@ -7,6 +7,9 @@ const path = require('path');
 const camelcase = require('camelcase');
 const pascalcase = require('pascalcase');
 const angular = require('angular');
+const ngTouch = require('angular-touch');
+const ngAnimate = require('angular-animate');
+
 require('ng-file-upload');
 require('@uirouter/angularjs');
 
