@@ -9,7 +9,7 @@ For this lab we continued working on the existing cfgram app codebase with boots
 * [Lab Branch 34](https://github.com/mmpadget/31-image-uploads/tree/lab-34/lab-padget)
 
 ## Version
-* 0.3.0
+* 0.4.1
 
 ## Installation
 Please visit the following pages for how to install your project locally.
